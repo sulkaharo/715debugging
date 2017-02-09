@@ -1,0 +1,16 @@
+## START ./ReadHistoryData-page-15.data
+#### MISSING DATETIME @ 7, reading more to debug 0x6c
+    0000   0x6c 0xd5 0x10 0x02 0x00 0x52 0x27         l....R'
+            108  213   16    2    0   82   39
+##### DEBUG HEX
+    0000   0x7d 0x02 0x00 0x00 0x05 0xe2 0x02 0x9a    }.......
+    0008   0x2c 0x03 0x48 0x38 0x00 0x00 0x03 0x48    ,.H8...H
+    0010   0x38 0x00 0x00 0x00 0x00 0x00 0x00 0x03    8.......
+    0018   0x48 0x64 0x07 0x00 0x00 0x00 0x07 0x39    Hd.....9
+##### DEBUG DECIMAL
+            125    2    0    0    5  226    2  154
+             44    3   72   56    0    0    3   72
+             56    0    0    0    0    0    0    3
+             72  100    7    0    0    0    7   57
+XXX:???:XXX 2000-07-02T16:21:44
+`end ./ReadHistoryData-page-15.data: 0 records`

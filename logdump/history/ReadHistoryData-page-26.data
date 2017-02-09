@@ -1,0 +1,129 @@
+## START ./ReadHistoryData-page-26.data
+#### STOPPING DOUBLE NULLS @ 79, found 1 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x02 0x30 0x64 0x05 0x00 0x00 0x00 0x05    .0d.....
+    0008   0x39 0x13 0x8b 0x89 0x68 0x75 0x10 0x76    9...hu.v
+    0010   0x92 0x11 0x03 0x00 0x05 0x00 0x05 0x93    ........
+    0018   0xb4 0x08 0x15 0x10 0x01 0x1e 0x1e 0x00    ........
+##### DEBUG DECIMAL
+              2   48  100    5    0    0    0    5
+             57   19  139  137  104  117   16  118
+            146   17    3    0    5    0    5  147
+            180    8   21   16    1   30   30    0
+#### RECORD 0 Base (2016, 10, 20, 19, 17, 47) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x0f                                  9.
+    decimal
+             57   15
+    datetime ((2016, 10, 20, 19, 17, 47))
+    0000   0xaf 0x91 0x73 0x74 0x10                   ..st.
+    body (0)
+
+#### RECORD 1 Base (2017, 0, 20, 0, 30, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2017, 0, 20, 0, 30, 17))
+    0000   0x11 0x1e 0x00 0xb4 0x91                   .....
+    body (0)
+
+#### RECORD 2 Base (2050, 0, 26, 0, 31, 16) head[2], body[0] op[0x13]
+
+    op hex (2)
+    0000   0x13 0x14                                  ..
+    decimal
+             19   20
+    datetime ((2050, 0, 26, 0, 31, 16))
+    0000   0x10 0x1f 0x00 0x9a 0xb2                   .....
+    body (0)
+
+#### RECORD 3 Base (2000, 0, 30, 30, 1, 16) head[2], body[0] op[0x13]
+
+    op hex (2)
+    0000   0x13 0x14                                  ..
+    decimal
+             19   20
+    datetime ((2000, 0, 30, 30, 1, 16))
+    0000   0x10 0x01 0x1e 0x1e 0x00                   .....
+    body (0)
+
+#### RECORD 4 Base (2014, 4, 25, 16, 20, 19) head[2], body[0] op[0xa3]
+
+    op hex (2)
+    0000   0xa3 0xb2                                  ..
+    decimal
+            163  178
+    datetime ((2014, 4, 25, 16, 20, 19))
+    0000   0x53 0x14 0x10 0x39 0x0e                   S..9.
+    body (0)
+
+#### RECORD 5 Base (2018, 9, 22, 16, 52, 23) head[2], body[0] op[0xa5]
+
+    op hex (2)
+    0000   0xa5 0x91                                  ..
+    decimal
+            165  145
+    datetime ((2018, 9, 22, 16, 52, 23))
+    0000   0x97 0x74 0x10 0x76 0x92                   .t.v.
+    body (0)
+
+#### RECORD 6 Base (2052, 0, 30, 4, 0, 0) head[2], body[0] op[0x11]
+
+    op hex (2)
+    0000   0x11 0x07                                  ..
+    decimal
+             17    7
+    datetime ((2052, 0, 30, 4, 0, 0))
+    0000   0x00 0x00 0x04 0xde 0xb4                   .....
+    body (0)
+
+#### RECORD 7 Base (2059, 8, 0, 2, 16, 52) head[2], body[0] op[0x10]
+
+    op hex (2)
+    0000   0x10 0x6c                                  .l
+    decimal
+             16  108
+    datetime ((2059, 8, 0, 2, 16, 52))
+    0000   0xb4 0x10 0x02 0x00 0x3b                   ....;
+    body (0)
+
+#### RECORD 8 ChangeMaxBasal (2094, 0, 4, 0, 0, 3) head[2], body[0] op[0x2c]
+###### DECODED
+```python
+{'maxBasal': 1.7}
+```
+    op hex (2)
+    0000   0x2c 0x44                                  ,D
+    decimal
+             44   68
+    datetime ((2094, 0, 4, 0, 0, 3))
+    0000   0x03 0x00 0x00 0x04 0xde                   .....
+    body (0)
+
+#### RECORD 9 Base (2000, 0, 13, 16, 2, 55) head[2], body[0] op[0x02]
+
+    op hex (2)
+    0000   0x02 0xae                                  ..
+    decimal
+              2  174
+    datetime ((2000, 0, 13, 16, 2, 55))
+    0000   0x37 0x02 0x30 0x2d 0x00                   7.0-.
+    body (0)
+
+#### RECORD 10 Base (2000, 0, 0, 0, 45, 48) head[2], body[0] op[0x00]
+
+    op hex (2)
+    0000   0x00 0x02                                  ..
+    decimal
+              0    2
+    datetime ((2000, 0, 0, 0, 45, 48))
+    0000   0x30 0x2d 0x00 0x00 0x00                   0-...
+    body (0)
+
+`end ./ReadHistoryData-page-26.data: 11 records`

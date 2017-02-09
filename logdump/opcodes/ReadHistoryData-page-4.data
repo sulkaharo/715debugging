@@ -1,0 +1,1464 @@
+## START ./ReadHistoryData-page-4.data
+#### RECORD 0 PumpSuspend 2017-02-07T17:55:50 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:55:50)
+    0000   0x32 0xb7 0x11 0x47 0x11                   2..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 1 PumpResume 2017-02-07T17:55:53 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:55:53)
+    0000   0x35 0xb7 0x11 0x47 0x11                   5..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 2 PumpSuspend 2017-02-07T17:55:55 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:55:55)
+    0000   0x37 0xb7 0x11 0x47 0x11                   7..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 3 PumpResume 2017-02-07T17:55:58 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:55:58)
+    0000   0x3a 0xb7 0x11 0x47 0x11                   :..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 4 PumpSuspend 2017-02-07T17:55:59 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:55:59)
+    0000   0x3b 0xb7 0x11 0x47 0x11                   ;..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 5 PumpResume 2017-02-07T17:56:03 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:03)
+    0000   0x03 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 6 PumpSuspend 2017-02-07T17:56:04 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:04)
+    0000   0x04 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 7 PumpResume 2017-02-07T17:56:08 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:08)
+    0000   0x08 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 8 PumpSuspend 2017-02-07T17:56:09 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:09)
+    0000   0x09 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 9 PumpResume 2017-02-07T17:56:12 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:12)
+    0000   0x0c 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 10 PumpSuspend 2017-02-07T17:56:14 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:14)
+    0000   0x0e 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 11 PumpResume 2017-02-07T17:56:17 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:17)
+    0000   0x11 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 12 PumpSuspend 2017-02-07T17:56:19 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:19)
+    0000   0x13 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 13 PumpResume 2017-02-07T17:56:22 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:22)
+    0000   0x16 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 14 PumpSuspend 2017-02-07T17:56:24 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:24)
+    0000   0x18 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 15 PumpResume 2017-02-07T17:56:27 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:27)
+    0000   0x1b 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 16 PumpSuspend 2017-02-07T17:56:28 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:28)
+    0000   0x1c 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 17 PumpResume 2017-02-07T17:56:32 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:32)
+    0000   0x20 0xb8 0x11 0x47 0x11                    ..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 18 PumpSuspend 2017-02-07T17:56:33 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:33)
+    0000   0x21 0xb8 0x11 0x47 0x11                   !..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 19 PumpResume 2017-02-07T17:56:37 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:37)
+    0000   0x25 0xb8 0x11 0x47 0x11                   %..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 20 PumpSuspend 2017-02-07T17:56:38 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:38)
+    0000   0x26 0xb8 0x11 0x47 0x11                   &..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 21 PumpResume 2017-02-07T17:56:42 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:42)
+    0000   0x2a 0xb8 0x11 0x47 0x11                   *..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 22 PumpSuspend 2017-02-07T17:56:43 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:43)
+    0000   0x2b 0xb8 0x11 0x47 0x11                   +..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 23 PumpResume 2017-02-07T17:56:46 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:46)
+    0000   0x2e 0xb8 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 24 PumpSuspend 2017-02-07T17:56:48 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:48)
+    0000   0x30 0xb8 0x11 0x47 0x11                   0..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 25 PumpResume 2017-02-07T17:56:51 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:51)
+    0000   0x33 0xb8 0x11 0x47 0x11                   3..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 26 PumpSuspend 2017-02-07T17:56:53 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:53)
+    0000   0x35 0xb8 0x11 0x47 0x11                   5..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 27 PumpResume 2017-02-07T17:56:56 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:56:56)
+    0000   0x38 0xb8 0x11 0x47 0x11                   8..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 28 PumpSuspend 2017-02-07T17:56:58 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:56:58)
+    0000   0x3a 0xb8 0x11 0x47 0x11                   :..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 29 PumpResume 2017-02-07T17:57:01 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:01)
+    0000   0x01 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 30 PumpSuspend 2017-02-07T17:57:02 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:02)
+    0000   0x02 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 31 PumpResume 2017-02-07T17:57:06 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:06)
+    0000   0x06 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 32 PumpSuspend 2017-02-07T17:57:07 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:07)
+    0000   0x07 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 33 PumpResume 2017-02-07T17:57:11 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:11)
+    0000   0x0b 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 34 PumpSuspend 2017-02-07T17:57:12 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:12)
+    0000   0x0c 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 35 PumpResume 2017-02-07T17:57:15 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:15)
+    0000   0x0f 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 36 PumpSuspend 2017-02-07T17:57:17 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:17)
+    0000   0x11 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 37 PumpResume 2017-02-07T17:57:20 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:20)
+    0000   0x14 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 38 PumpSuspend 2017-02-07T17:57:22 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:22)
+    0000   0x16 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 39 PumpResume 2017-02-07T17:57:25 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:25)
+    0000   0x19 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 40 PumpSuspend 2017-02-07T17:57:27 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:27)
+    0000   0x1b 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 41 PumpResume 2017-02-07T17:57:30 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:30)
+    0000   0x1e 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 42 PumpSuspend 2017-02-07T17:57:31 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:31)
+    0000   0x1f 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 43 PumpResume 2017-02-07T17:57:35 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:35)
+    0000   0x23 0xb9 0x11 0x47 0x11                   #..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 44 PumpSuspend 2017-02-07T17:57:36 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:36)
+    0000   0x24 0xb9 0x11 0x47 0x11                   $..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 45 PumpResume 2017-02-07T17:57:40 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:40)
+    0000   0x28 0xb9 0x11 0x47 0x11                   (..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 46 PumpSuspend 2017-02-07T17:57:41 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:41)
+    0000   0x29 0xb9 0x11 0x47 0x11                   )..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 47 PumpResume 2017-02-07T17:57:44 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:44)
+    0000   0x2c 0xb9 0x11 0x47 0x11                   ,..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 48 PumpSuspend 2017-02-07T17:57:46 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:46)
+    0000   0x2e 0xb9 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 49 PumpResume 2017-02-07T17:57:49 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:49)
+    0000   0x31 0xb9 0x11 0x47 0x11                   1..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 50 PumpSuspend 2017-02-07T17:57:51 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:51)
+    0000   0x33 0xb9 0x11 0x47 0x11                   3..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 51 PumpResume 2017-02-07T17:57:54 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:54)
+    0000   0x36 0xb9 0x11 0x47 0x11                   6..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 52 PumpSuspend 2017-02-07T17:57:56 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:57:56)
+    0000   0x38 0xb9 0x11 0x47 0x11                   8..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 53 PumpResume 2017-02-07T17:57:59 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:57:59)
+    0000   0x3b 0xb9 0x11 0x47 0x11                   ;..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 54 PumpSuspend 2017-02-07T17:58:00 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:00)
+    0000   0x00 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 55 PumpResume 2017-02-07T17:58:04 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:04)
+    0000   0x04 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 56 PumpSuspend 2017-02-07T17:58:05 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:05)
+    0000   0x05 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 57 PumpResume 2017-02-07T17:58:09 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:09)
+    0000   0x09 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 58 PumpSuspend 2017-02-07T17:58:10 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:10)
+    0000   0x0a 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 59 PumpResume 2017-02-07T17:58:13 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:13)
+    0000   0x0d 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 60 PumpSuspend 2017-02-07T17:58:15 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:15)
+    0000   0x0f 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 61 PumpResume 2017-02-07T17:58:18 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:18)
+    0000   0x12 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 62 PumpSuspend 2017-02-07T17:58:20 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:20)
+    0000   0x14 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 63 PumpResume 2017-02-07T17:58:23 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:23)
+    0000   0x17 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 64 PumpSuspend 2017-02-07T17:58:25 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:25)
+    0000   0x19 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 65 PumpResume 2017-02-07T17:58:28 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:28)
+    0000   0x1c 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 66 PumpSuspend 2017-02-07T17:58:29 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:29)
+    0000   0x1d 0xba 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 67 PumpResume 2017-02-07T17:58:33 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:33)
+    0000   0x21 0xba 0x11 0x47 0x11                   !..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 68 PumpSuspend 2017-02-07T17:58:34 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:34)
+    0000   0x22 0xba 0x11 0x47 0x11                   "..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 69 PumpResume 2017-02-07T17:58:38 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:38)
+    0000   0x26 0xba 0x11 0x47 0x11                   &..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 70 PumpSuspend 2017-02-07T17:58:51 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:51)
+    0000   0x33 0xba 0x11 0x47 0x11                   3..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 71 PumpResume 2017-02-07T17:58:53 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:53)
+    0000   0x35 0xba 0x11 0x47 0x11                   5..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 72 PumpSuspend 2017-02-07T17:58:54 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:54)
+    0000   0x36 0xba 0x11 0x47 0x11                   6..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 73 PumpResume 2017-02-07T17:58:57 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:58:57)
+    0000   0x39 0xba 0x11 0x47 0x11                   9..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 74 PumpSuspend 2017-02-07T17:58:58 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:58:58)
+    0000   0x3a 0xba 0x11 0x47 0x11                   :..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 75 PumpResume 2017-02-07T17:59:01 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:01)
+    0000   0x01 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 76 PumpSuspend 2017-02-07T17:59:02 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:02)
+    0000   0x02 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 77 PumpResume 2017-02-07T17:59:04 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:04)
+    0000   0x04 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 78 PumpSuspend 2017-02-07T17:59:06 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:06)
+    0000   0x06 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 79 PumpResume 2017-02-07T17:59:08 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:08)
+    0000   0x08 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 80 PumpSuspend 2017-02-07T17:59:10 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:10)
+    0000   0x0a 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 81 PumpResume 2017-02-07T17:59:12 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:12)
+    0000   0x0c 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 82 PumpSuspend 2017-02-07T17:59:13 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:13)
+    0000   0x0d 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 83 PumpResume 2017-02-07T17:59:16 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:16)
+    0000   0x10 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 84 PumpSuspend 2017-02-07T17:59:17 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:17)
+    0000   0x11 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 85 PumpResume 2017-02-07T17:59:20 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:20)
+    0000   0x14 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 86 PumpSuspend 2017-02-07T17:59:21 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:21)
+    0000   0x15 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 87 PumpResume 2017-02-07T17:59:23 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:23)
+    0000   0x17 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 88 PumpSuspend 2017-02-07T17:59:25 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:25)
+    0000   0x19 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 89 PumpResume 2017-02-07T17:59:27 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:27)
+    0000   0x1b 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 90 PumpSuspend 2017-02-07T17:59:29 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:29)
+    0000   0x1d 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 91 PumpResume 2017-02-07T17:59:31 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:31)
+    0000   0x1f 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 92 PumpSuspend 2017-02-07T17:59:32 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:32)
+    0000   0x20 0xbb 0x11 0x47 0x11                    ..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 93 PumpResume 2017-02-07T17:59:35 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:35)
+    0000   0x23 0xbb 0x11 0x47 0x11                   #..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 94 PumpSuspend 2017-02-07T17:59:36 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:36)
+    0000   0x24 0xbb 0x11 0x47 0x11                   $..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 95 PumpResume 2017-02-07T17:59:38 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:38)
+    0000   0x26 0xbb 0x11 0x47 0x11                   &..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 96 PumpSuspend 2017-02-07T17:59:40 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:40)
+    0000   0x28 0xbb 0x11 0x47 0x11                   (..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 97 PumpResume 2017-02-07T17:59:42 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:42)
+    0000   0x2a 0xbb 0x11 0x47 0x11                   *..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 98 PumpSuspend 2017-02-07T17:59:44 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:44)
+    0000   0x2c 0xbb 0x11 0x47 0x11                   ,..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 99 PumpResume 2017-02-07T17:59:46 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:46)
+    0000   0x2e 0xbb 0x11 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 100 PumpSuspend 2017-02-07T17:59:48 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:48)
+    0000   0x30 0xbb 0x11 0x47 0x11                   0..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 101 PumpResume 2017-02-07T17:59:50 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:50)
+    0000   0x32 0xbb 0x11 0x47 0x11                   2..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 102 PumpSuspend 2017-02-07T17:59:51 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:51)
+    0000   0x33 0xbb 0x11 0x47 0x11                   3..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 103 PumpResume 2017-02-07T17:59:54 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:54)
+    0000   0x36 0xbb 0x11 0x47 0x11                   6..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 104 PumpSuspend 2017-02-07T17:59:55 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:55)
+    0000   0x37 0xbb 0x11 0x47 0x11                   7..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 105 PumpResume 2017-02-07T17:59:57 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T17:59:57)
+    0000   0x39 0xbb 0x11 0x47 0x11                   9..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 106 PumpSuspend 2017-02-07T17:59:59 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T17:59:59)
+    0000   0x3b 0xbb 0x11 0x47 0x11                   ;..G.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 107 PumpResume 2017-02-07T18:00:01 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:01)
+    0000   0x01 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 108 PumpSuspend 2017-02-07T18:00:03 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:03)
+    0000   0x03 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 109 PumpResume 2017-02-07T18:00:05 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:05)
+    0000   0x05 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 110 PumpSuspend 2017-02-07T18:00:06 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:06)
+    0000   0x06 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 111 PumpResume 2017-02-07T18:00:09 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:09)
+    0000   0x09 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 112 PumpSuspend 2017-02-07T18:00:10 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:10)
+    0000   0x0a 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 113 PumpResume 2017-02-07T18:00:12 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:12)
+    0000   0x0c 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 114 PumpSuspend 2017-02-07T18:00:14 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:14)
+    0000   0x0e 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 115 PumpResume 2017-02-07T18:00:16 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:16)
+    0000   0x10 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 116 PumpSuspend 2017-02-07T18:00:18 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:18)
+    0000   0x12 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 117 PumpResume 2017-02-07T18:00:20 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:20)
+    0000   0x14 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 118 PumpSuspend 2017-02-07T18:00:21 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:21)
+    0000   0x15 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 119 PumpResume 2017-02-07T18:00:24 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:24)
+    0000   0x18 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 120 PumpSuspend 2017-02-07T18:00:25 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:25)
+    0000   0x19 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 121 PumpResume 2017-02-07T18:00:28 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:28)
+    0000   0x1c 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 122 PumpSuspend 2017-02-07T18:00:29 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:29)
+    0000   0x1d 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 123 PumpResume 2017-02-07T18:00:31 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:31)
+    0000   0x1f 0x80 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 124 PumpSuspend 2017-02-07T18:00:33 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:33)
+    0000   0x21 0x80 0x12 0x47 0x11                   !..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 125 PumpResume 2017-02-07T18:00:35 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:35)
+    0000   0x23 0x80 0x12 0x47 0x11                   #..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 126 PumpSuspend 2017-02-07T18:00:37 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:37)
+    0000   0x25 0x80 0x12 0x47 0x11                   %..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 127 PumpResume 2017-02-07T18:00:39 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:39)
+    0000   0x27 0x80 0x12 0x47 0x11                   '..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 128 PumpSuspend 2017-02-07T18:00:40 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:40)
+    0000   0x28 0x80 0x12 0x47 0x11                   (..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 129 PumpResume 2017-02-07T18:00:43 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:43)
+    0000   0x2b 0x80 0x12 0x47 0x11                   +..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 130 PumpSuspend 2017-02-07T18:00:44 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:44)
+    0000   0x2c 0x80 0x12 0x47 0x11                   ,..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 131 PumpResume 2017-02-07T18:00:47 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:47)
+    0000   0x2f 0x80 0x12 0x47 0x11                   /..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 132 PumpSuspend 2017-02-07T18:00:48 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:00:48)
+    0000   0x30 0x80 0x12 0x47 0x11                   0..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 133 PumpResume 2017-02-07T18:00:59 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:00:59)
+    0000   0x3b 0x80 0x12 0x47 0x11                   ;..G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 134 PumpSuspend 2017-02-07T18:01:00 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:01:00)
+    0000   0x00 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 135 PumpResume 2017-02-07T18:01:02 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:01:02)
+    0000   0x02 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 136 PumpSuspend 2017-02-07T18:01:03 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:01:03)
+    0000   0x03 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 137 PumpResume 2017-02-07T18:01:05 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:01:05)
+    0000   0x05 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 138 PumpSuspend 2017-02-07T18:01:06 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:01:06)
+    0000   0x06 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 139 PumpResume 2017-02-07T18:01:08 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:01:08)
+    0000   0x08 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 140 PumpSuspend 2017-02-07T18:01:09 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:01:09)
+    0000   0x09 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 141 PumpResume 2017-02-07T18:01:11 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:01:11)
+    0000   0x0b 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 142 PumpSuspend 2017-02-07T18:01:12 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:01:12)
+    0000   0x0c 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 143 PumpResume 2017-02-07T18:01:13 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:01:13)
+    0000   0x0d 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 144 PumpSuspend 2017-02-07T18:01:15 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-07T18:01:15)
+    0000   0x0f 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 145 PumpResume 2017-02-07T18:01:16 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-07T18:01:16)
+    0000   0x10 0x81 0x12 0x47 0x11                   ...G.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+DATE LESS THAN 5! 1024
+0000   0xd5 0xe6                                  ..
+`end ./ReadHistoryData-page-4.data: 146 records`

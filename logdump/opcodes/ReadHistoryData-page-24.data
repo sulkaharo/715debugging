@@ -1,0 +1,25 @@
+## START ./ReadHistoryData-page-24.data
+#### RECORD 0 Record 2082-08-24T00:02:16 head[2], body[0] 0x6c
+    op hex (2)
+    0000   0x6c 0xa2                                  l.
+    decimal
+            108  162
+    datetime (2082-08-24T00:02:16)
+    0000   0x90 0x02 0x00 0x78 0x52                   ...xR
+    body (0)
+    DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 14, reading more to debug 0xbf
+    0000   0xbf 0x03 0x00 0x00 0x04 0x90 0x02         .......
+            191    3    0    0    4  144    2
+##### DEBUG HEX
+    0000   0xb0 0x3b 0x01 0xe0 0x29 0x00 0x00 0x01    .;..)...
+    0008   0xe0 0x29 0x00 0x00 0x00 0x00 0x00 0x00    .)......
+    0010   0x01 0xe0 0x64 0x06 0x00 0x00 0x00 0x06    ..d.....
+    0018   0x39 0x18 0x8c 0xee 0x46 0x63 0x10 0x76    9...Fc.v
+##### DEBUG DECIMAL
+            176   59    1  224   41    0    0    1
+            224   41    0    0    0    0    0    0
+              1  224  100    6    0    0    0    6
+             57   24  140  238   70   99   16  118
+`end ./ReadHistoryData-page-24.data: 1 records`

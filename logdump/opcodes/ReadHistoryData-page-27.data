@@ -1,0 +1,36 @@
+## START ./ReadHistoryData-page-27.data
+#### RECORD 0 Bolus 2016-10-14T17:04:42 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-10-14T17:04:42)
+    0000   0xaa 0x84 0x51 0x0e 0x10                   ..Q..
+    body (0)
+    HOUR BITS: [1, 0, 0]
+
+#### RECORD 1 Record 2016-10-14T18:20:23 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x08                                  9.
+    decimal
+             57    8
+    datetime (2016-10-14T18:20:23)
+    0000   0x97 0x94 0xf2 0x6e 0x10                   ...n.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 23, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x1e 0x00 0x8d 0x95         v......
+            118  146   17   30    0  141  149
+##### DEBUG HEX
+    0000   0x12 0x0e 0x10 0x1f 0x00 0x84 0xa6 0x13    ........
+    0008   0x0e 0x10 0x01 0x14 0x14 0x00 0xa7 0x97    ........
+    0010   0x54 0x0e 0x10 0x01 0x1e 0x1e 0x00 0x95    T.......
+    0018   0xb4 0x54 0x0e 0x10 0x01 0x0a 0x0a 0x00    .T......
+##### DEBUG DECIMAL
+             18   14   16   31    0  132  166   19
+             14   16    1   20   20    0  167  151
+             84   14   16    1   30   30    0  149
+            180   84   14   16    1   10   10    0
+XXX:???:XXX 2000-06-30T17:18:54
+`end ./ReadHistoryData-page-27.data: 2 records`

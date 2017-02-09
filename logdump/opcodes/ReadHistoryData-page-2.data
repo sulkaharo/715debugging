@@ -1,0 +1,26 @@
+## START ./ReadHistoryData-page-2.data
+#### RECORD 0 Record 2017-02-08T08:15:24 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x17                                  9.
+    decimal
+             57   23
+    datetime (2017-02-08T08:15:24)
+    0000   0x18 0x8f 0x88 0x68 0x11                   ...h.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x21 0x00 0x38 0x91         v..!.8.
+            118  146   17   33    0   56  145
+##### DEBUG HEX
+    0000   0x08 0x08 0x11 0x03 0x00 0x00 0x00 0x00    ........
+    0008   0x1f 0x94 0x28 0x08 0x11 0x03 0x00 0x05    ..(.....
+    0010   0x00 0x05 0x35 0x96 0x08 0x08 0x11 0x5b    ..5....[
+    0018   0x68 0x39 0xa2 0x08 0x08 0x11 0x19 0x90    h9......
+##### DEBUG DECIMAL
+              8    8   17    3    0    0    0    0
+             31  148   40    8   17    3    0    5
+              0    5   53  150    8    8   17   91
+            104   57  162    8    8   17   25  144
+XXX:???:XXX 2000-06-01T17:18:54
+`end ./ReadHistoryData-page-2.data: 1 records`

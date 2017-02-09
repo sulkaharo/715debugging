@@ -1,0 +1,56 @@
+## START ./ReadHistoryData-page-16.data
+#### RECORD 0 Bolus 2016-12-15T09:13:25 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x05 0x05 0x00                        ....
+    decimal
+              1    5    5    0
+    datetime (2016-12-15T09:13:25)
+    0000   0xd9 0x0d 0x49 0x0f 0x10                   ..I..
+    body (0)
+    
+
+#### RECORD 1 Bolus 2016-12-15T10:29:38 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x28 0x28 0x00                        .((.
+    decimal
+              1   40   40    0
+    datetime (2016-12-15T10:29:38)
+    0000   0xe6 0x1d 0x4a 0x0f 0x10                   ..J..
+    body (0)
+    
+
+#### RECORD 2 Bolus 2016-12-15T12:57:26 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x28 0x28 0x00                        .((.
+    decimal
+              1   40   40    0
+    datetime (2016-12-15T12:57:26)
+    0000   0xda 0x39 0x4c 0x0f 0x10                   .9L..
+    body (0)
+    HOUR BITS: [0, 0, 1]
+
+#### RECORD 3 Record 2016-12-15T15:53:49 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x1d                                  9.
+    decimal
+             57   29
+    datetime (2016-12-15T15:53:49)
+    0000   0xf1 0x35 0x0f 0x6f 0x10                   .5.o.
+    body (0)
+    HOUR BITS: [0, 0, 1] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 41, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x01 0x0a 0x0a 0x00         v......
+            118  146   17    1   10   10    0
+##### DEBUG HEX
+    0000   0xc3 0x36 0x4f 0x0f 0x10 0x01 0x0a 0x0a    .6O.....
+    0008   0x00 0xd6 0x04 0x50 0x0f 0x10 0x33 0x32    ...P..32
+    0010   0xd5 0x0d 0x13 0x0f 0x10 0x08 0x16 0x01    ........
+    0018   0xd5 0x0d 0x13 0x0f 0x10 0x39 0x0c 0xc3    .....9..
+##### DEBUG DECIMAL
+            195   54   79   15   16    1   10   10
+              0  214    4   80   15   16   51   50
+            213   13   19   15   16    8   22    1
+            213   13   19   15   16   57   12  195
+XXX:???:XXX 2010-06-01T17:18:54
+`end ./ReadHistoryData-page-16.data: 4 records`

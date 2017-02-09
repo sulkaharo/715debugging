@@ -1,0 +1,270 @@
+## START ./ReadHistoryData-page-29.data
+#### STOPPING DOUBLE NULLS @ 287, found 0 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x05 0x42 0x02 0xc2 0x34 0x02 0x80 0x30    .B..4..0
+    0008   0x00 0x00 0x02 0x80 0x30 0x00 0x00 0x00    ....0...
+    0010   0x00 0x00 0x00 0x02 0x80 0x64 0x08 0x00    .....d..
+    0018   0x00 0x00 0x08 0x39 0x16 0x9f 0xa4 0xa7    ...9....
+##### DEBUG DECIMAL
+              5   66    2  194   52    2  128   48
+              0    0    2  128   48    0    0    0
+              0    0    0    2  128  100    8    0
+              0    0    8   57   22  159  164  167
+#### RECORD 0 ChangeBasalProfile_new_profile 2016-10-04T08:01:10 head[2], body[145] op[0x09]
+###### DECODED
+```python
+[{'offset': 0, 'rate': 0.75},
+ {'offset': 18000000, 'rate': 0.7},
+ {'offset': 28800000, 'rate': 0.85},
+ {'offset': 57600000, 'rate': 0.7}]
+```
+    op hex (2)
+    0000   0x09 0x04                                  ..
+    decimal
+              9    4
+    datetime (2016-10-04T08:01:10)
+    0000   0x8a 0x81 0x08 0x04 0x10                   .....
+    body (145)
+    hex
+    0000   0x00 0x1e 0x00 0x0a 0x1c 0x00 0x10 0x22    ......."
+    0008   0x00 0x20 0x1c 0x00 0x00 0x00 0x00 0x00    . ......
+    0010   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0018   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0020   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0028   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0030   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0038   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0040   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0048   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0050   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0058   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0060   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0068   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0070   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0078   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0080   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0088   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0090   0x00                                       .
+    decimal
+              0   30    0   10   28    0   16   34
+              0   32   28    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0
+
+#### RECORD 1 Bolus 2016-10-04T08:01:31 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 0.5, 'duration': 0, 'programmed': 0.5, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x05 0x05 0x00                        ....
+    decimal
+              1    5    5    0
+    datetime (2016-10-04T08:01:31)
+    0000   0x9f 0x81 0x48 0x04 0x10                   ..H..
+    body (0)
+
+#### RECORD 2 Prime 2016-10-04T08:30:10 head[5], body[0] op[0x03]
+###### DECODED
+```python
+{'amount': 0.5, 'fixed': 0.5, 'type': 'fixed'}
+```
+    op hex (5)
+    0000   0x03 0x00 0x05 0x00 0x05                   .....
+    decimal
+              3    0    5    0    5
+    datetime (2016-10-04T08:30:10)
+    0000   0x8a 0x9e 0x08 0x04 0x10                   .....
+    body (0)
+
+#### RECORD 3 Bolus 2016-10-04T08:38:31 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 3.0, 'duration': 0, 'programmed': 3.0, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x1e 0x1e 0x00                        ....
+    decimal
+              1   30   30    0
+    datetime (2016-10-04T08:38:31)
+    0000   0x9f 0xa6 0x48 0x04 0x10                   ..H..
+    body (0)
+
+#### RECORD 4 Bolus 2016-10-04T08:49:47 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 0.5, 'duration': 0, 'programmed': 0.5, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x05 0x05 0x00                        ....
+    decimal
+              1    5    5    0
+    datetime (2016-10-04T08:49:47)
+    0000   0xaf 0xb1 0x48 0x04 0x10                   ..H..
+    body (0)
+
+#### RECORD 5 Bolus 2016-10-04T12:12:56 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 3.0, 'duration': 0, 'programmed': 3.0, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x1e 0x1e 0x00                        ....
+    decimal
+              1   30   30    0
+    datetime (2016-10-04T12:12:56)
+    0000   0xb8 0x8c 0x4c 0x04 0x10                   ..L..
+    body (0)
+
+#### RECORD 6 TempBasal 2016-10-04T17:26:27 head[2], body[1] op[0x33]
+###### DECODED
+```python
+{'rate': 50, 'temp': 'percent'}
+```
+    op hex (2)
+    0000   0x33 0x32                                  32
+    decimal
+             51   50
+    datetime (2016-10-04T17:26:27)
+    0000   0x9b 0x9a 0x11 0x04 0x10                   .....
+    body (1)
+    hex
+    0000   0x08                                       .
+    decimal
+              8
+
+#### RECORD 7 TempBasalDuration 2016-10-04T17:26:27 head[2], body[0] op[0x16]
+###### DECODED
+```python
+{'duration (min)': 60}
+```
+    op hex (2)
+    0000   0x16 0x02                                  ..
+    decimal
+             22    2
+    datetime (2016-10-04T17:26:27)
+    0000   0x9b 0x9a 0x11 0x04 0x10                   .....
+    body (0)
+
+#### RECORD 8 Base (2016, 10, 4, 18, 55, 53) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x0d                                  9.
+    decimal
+             57   13
+    datetime ((2016, 10, 4, 18, 55, 53))
+    0000   0xb5 0xb7 0xd2 0x64 0x10                   ...d.
+    body (0)
+
+#### RECORD 9 Base (2000, 0, 20, 20, 1, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2000, 0, 20, 20, 1, 17))
+    0000   0x11 0x01 0x14 0x14 0x00                   .....
+    body (0)
+
+#### RECORD 10 Base (2030, 8, 1, 16, 4, 19) head[2], body[0] op[0x89]
+
+    op hex (2)
+    0000   0x89 0xb5                                  ..
+    decimal
+            137  181
+    datetime ((2030, 8, 1, 16, 4, 19))
+    0000   0x93 0x04 0x10 0x01 0x1e                   .....
+    body (0)
+
+#### RECORD 11 PumpSuspend 2016-10-04T19:54:27 head[2], body[0] op[0x1e]
+
+    op hex (2)
+    0000   0x1e 0x01                                  ..
+    decimal
+             30    1
+    datetime (2016-10-04T19:54:27)
+    0000   0x9b 0xb6 0xb3 0x04 0x10                   .....
+    body (0)
+
+#### RECORD 12 Bolus 2016-10-04T22:48:05 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 1.0, 'duration': 0, 'programmed': 1.0, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-10-04T22:48:05)
+    0000   0x85 0xb0 0x56 0x04 0x10                   ..V..
+    body (0)
+
+#### RECORD 13 Base (2016, 10, 4, 23, 12, 3) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x20                                  9 
+    decimal
+             57   32
+    datetime ((2016, 10, 4, 23, 12, 3))
+    0000   0x83 0x8c 0x57 0x64 0x10                   ..Wd.
+    body (0)
+
+#### RECORD 14 Base (2000, 0, 10, 10, 1, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2000, 0, 10, 10, 1, 17))
+    0000   0x11 0x01 0x0a 0x0a 0x00                   .....
+    body (0)
+
+#### RECORD 15 Base (2000, 4, 7, 16, 4, 23) head[2], body[0] op[0x8d]
+
+    op hex (2)
+    0000   0x8d 0x8c                                  ..
+    decimal
+            141  140
+    datetime ((2000, 4, 7, 16, 4, 23))
+    0000   0x57 0x04 0x10 0x07 0x00                   W....
+    body (0)
+
+#### RECORD 16 Base (2036, 6, 12, 16, 36, 2) head[2], body[0] op[0x00]
+
+    op hex (2)
+    0000   0x00 0x05                                  ..
+    decimal
+              0    5
+    datetime ((2036, 6, 12, 16, 36, 2))
+    0000   0x42 0xa4 0x10 0x6c 0xa4                   B..l.
+    body (0)
+
+#### RECORD 17 Base (2004, 1, 31, 29, 54, 0) head[2], body[0] op[0x10]
+
+    op hex (2)
+    0000   0x10 0x02                                  ..
+    decimal
+             16    2
+    datetime ((2004, 1, 31, 29, 54, 0))
+    0000   0x00 0x76 0x3d 0x9f 0x04                   .v=..
+    body (0)
+
+`end ./ReadHistoryData-page-29.data: 18 records`

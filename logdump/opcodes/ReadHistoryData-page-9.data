@@ -1,0 +1,25 @@
+## START ./ReadHistoryData-page-9.data
+#### RECORD 0 Record 2017-01-22T13:24:06 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x0e                                  9.
+    decimal
+             57   14
+    datetime (2017-01-22T13:24:06)
+    0000   0x06 0x58 0xcd 0x76 0x11                   .X.v.
+    body (0)
+    HOUR BITS: [0, 1, 0] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x1f 0x00 0x36 0x71         v....6q
+            118  146   17   31    0   54  113
+##### DEBUG HEX
+    0000   0x0d 0x16 0x11 0x01 0x0f 0x0f 0x00 0x08    ........
+    0008   0x72 0x4d 0x16 0x11 0x01 0x0a 0x0a 0x00    rM......
+    0010   0x3a 0x44 0x50 0x16 0x11 0x01 0x0a 0x0a    :DP.....
+    0018   0x00 0x26 0x55 0x51 0x16 0x11 0x01 0x0a    .&UQ....
+##### DEBUG DECIMAL
+             13   22   17    1   15   15    0    8
+            114   77   22   17    1   10   10    0
+             58   68   80   22   17    1   10   10
+              0   38   85   81   22   17    1   10
+`end ./ReadHistoryData-page-9.data: 1 records`

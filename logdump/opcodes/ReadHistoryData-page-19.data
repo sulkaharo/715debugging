@@ -1,0 +1,56 @@
+## START ./ReadHistoryData-page-19.data
+#### RECORD 0 Bolus 2016-11-27T14:03:45 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-11-27T14:03:45)
+    0000   0xad 0xc3 0x4e 0x1b 0x10                   ..N..
+    body (0)
+    HOUR BITS: [1, 1, 0]
+
+#### RECORD 1 Bolus 2016-11-27T14:19:10 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x28 0x28 0x00                        .((.
+    decimal
+              1   40   40    0
+    datetime (2016-11-27T14:19:10)
+    0000   0x8a 0xd3 0x4e 0x1b 0x10                   ..N..
+    body (0)
+    HOUR BITS: [1, 1, 0]
+
+#### RECORD 2 Bolus 2016-11-27T17:00:04 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-11-27T17:00:04)
+    0000   0x84 0xc0 0x51 0x1b 0x10                   ..Q..
+    body (0)
+    HOUR BITS: [1, 1, 0]
+
+#### RECORD 3 Record 2016-11-27T19:28:05 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x09                                  9.
+    decimal
+             57    9
+    datetime (2016-11-27T19:28:05)
+    0000   0x85 0xdc 0xb3 0x7b 0x10                   ...{.
+    body (0)
+    HOUR BITS: [1, 1, 0] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 41, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x1e 0x00 0x88 0xdc         v......
+            118  146   17   30    0  136  220
+##### DEBUG HEX
+    0000   0x13 0x1b 0x10 0x1f 0x00 0xaf 0xc7 0x14    ........
+    0008   0x1b 0x10 0x01 0x28 0x28 0x00 0xba 0xc7    ...((...
+    0010   0x54 0x1b 0x10 0x01 0x0a 0x0a 0x00 0xb3    T.......
+    0018   0xd7 0x54 0x1b 0x10 0x01 0x14 0x14 0x00    .T......
+##### DEBUG DECIMAL
+             19   27   16   31    0  175  199   20
+             27   16    1   40   40    0  186  199
+             84   27   16    1   10   10    0  179
+            215   84   27   16    1   20   20    0
+XXX:???:XXX 2000-06-30T17:18:54
+`end ./ReadHistoryData-page-19.data: 4 records`

@@ -1,0 +1,50 @@
+## START ./ReadHistoryData-page-22.data
+#### RECORD 0 TempBasal 2016-11-11T15:56:46 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x32                                  32
+    decimal
+             51   50
+    datetime (2016-11-11T15:56:46)
+    0000   0xae 0xf8 0x0f 0x0b 0x10                   .....
+    body (1)
+    hex
+    0000   0x08                                       .
+    decimal
+              8
+    HOUR BITS: [1, 1, 1]
+
+#### RECORD 1 TempBasal[eof] 2016-11-11T15:56:46 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2016-11-11T15:56:46)
+    0000   0xae 0xf8 0x0f 0x0b 0x10                   .....
+    body (0)
+    HOUR BITS: [1, 1, 1]
+
+#### RECORD 2 Record 2016-11-11T17:24:36 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x25                                  9%
+    decimal
+             57   37
+    datetime (2016-11-11T17:24:36)
+    0000   0xa4 0xd8 0x71 0x6b 0x10                   ..qk.
+    body (0)
+    HOUR BITS: [1, 1, 0] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 29, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x01 0x0a 0x0a 0x00         v......
+            118  146   17    1   10   10    0
+##### DEBUG HEX
+    0000   0xb2 0xd8 0x51 0x0b 0x10 0x01 0x0a 0x0a    ..Q.....
+    0008   0x00 0x87 0xf0 0x51 0x0b 0x10 0x01 0x0a    ...Q....
+    0010   0x0a 0x00 0xa4 0xdf 0x52 0x0b 0x10 0x01    ....R...
+    0018   0x0a 0x0a 0x00 0x94 0xea 0x52 0x0b 0x10    .....R..
+##### DEBUG DECIMAL
+            178  216   81   11   16    1   10   10
+              0  135  240   81   11   16    1   10
+             10    0  164  223   82   11   16    1
+             10   10    0  148  234   82   11   16
+XXX:???:XXX 2010-06-01T17:18:54
+`end ./ReadHistoryData-page-22.data: 3 records`

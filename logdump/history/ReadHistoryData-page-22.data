@@ -1,0 +1,251 @@
+## START ./ReadHistoryData-page-22.data
+#### STOPPING DOUBLE NULLS @ 156, found 4 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x02 0x58 0x64 0x09 0x00 0x00 0x00 0x09    .Xd.....
+    0008   0x1e 0x00 0x9c 0xc7 0x06 0x0c 0x10 0x39    .......9
+    0010   0x09 0x92 0xd3 0x47 0x6c 0x10 0x76 0x92    ...Gl.v.
+    0018   0x11 0x1f 0x00 0x98 0xda 0x08 0x0c 0x10    ........
+##### DEBUG DECIMAL
+              2   88  100    9    0    0    0    9
+             30    0  156  199    6   12   16   57
+              9  146  211   71  108   16  118  146
+             17   31    0  152  218    8   12   16
+#### RECORD 0 TempBasal 2016-11-11T15:56:46 head[2], body[1] op[0x33]
+###### DECODED
+```python
+{'rate': 50, 'temp': 'percent'}
+```
+    op hex (2)
+    0000   0x33 0x32                                  32
+    decimal
+             51   50
+    datetime (2016-11-11T15:56:46)
+    0000   0xae 0xf8 0x0f 0x0b 0x10                   .....
+    body (1)
+    hex
+    0000   0x08                                       .
+    decimal
+              8
+
+#### RECORD 1 TempBasalDuration 2016-11-11T15:56:46 head[2], body[0] op[0x16]
+###### DECODED
+```python
+{'duration (min)': 30}
+```
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2016-11-11T15:56:46)
+    0000   0xae 0xf8 0x0f 0x0b 0x10                   .....
+    body (0)
+
+#### RECORD 2 Base (2016, 11, 11, 17, 24, 36) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x25                                  9%
+    decimal
+             57   37
+    datetime ((2016, 11, 11, 17, 24, 36))
+    0000   0xa4 0xd8 0x71 0x6b 0x10                   ..qk.
+    body (0)
+
+#### RECORD 3 Base (2000, 0, 10, 10, 1, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2000, 0, 10, 10, 1, 17))
+    0000   0x11 0x01 0x0a 0x0a 0x00                   .....
+    body (0)
+
+#### RECORD 4 Base (2010, 4, 1, 16, 11, 17) head[2], body[0] op[0xb2]
+
+    op hex (2)
+    0000   0xb2 0xd8                                  ..
+    decimal
+            178  216
+    datetime ((2010, 4, 1, 16, 11, 17))
+    0000   0x51 0x0b 0x10 0x01 0x0a                   Q....
+    body (0)
+
+#### RECORD 5 CalBGForPH 2016-11-11T17:48:07 head[2], body[0] op[0x0a]
+###### DECODED
+```python
+{'amount': 0}
+```
+    op hex (2)
+    0000   0x0a 0x00                                  ..
+    decimal
+             10    0
+    datetime (2016-11-11T17:48:07)
+    0000   0x87 0xf0 0x51 0x0b 0x10                   ..Q..
+    body (0)
+
+#### RECORD 6 Bolus 2016-11-11T18:31:36 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 1.0, 'duration': 0, 'programmed': 1.0, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-11-11T18:31:36)
+    0000   0xa4 0xdf 0x52 0x0b 0x10                   ..R..
+    body (0)
+
+#### RECORD 7 Bolus 2016-11-11T18:42:20 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 1.0, 'duration': 0, 'programmed': 1.0, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-11-11T18:42:20)
+    0000   0x94 0xea 0x52 0x0b 0x10                   ..R..
+    body (0)
+
+#### RECORD 8 Bolus 2016-11-11T18:56:02 head[4], body[0] op[0x01]
+###### DECODED
+```python
+{'amount': 1.0, 'duration': 0, 'programmed': 1.0, 'type': 'normal'}
+```
+    op hex (4)
+    0000   0x01 0x0a 0x0a 0x00                        ....
+    decimal
+              1   10   10    0
+    datetime (2016-11-11T18:56:02)
+    0000   0x82 0xf8 0x52 0x0b 0x10                   ..R..
+    body (0)
+
+#### RECORD 9 Base (2016, 11, 11, 20, 44, 16) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x1e                                  9.
+    decimal
+             57   30
+    datetime ((2016, 11, 11, 20, 44, 16))
+    0000   0x90 0xec 0x54 0x6b 0x10                   ..Tk.
+    body (0)
+
+#### RECORD 10 Base (2000, 0, 10, 10, 1, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2000, 0, 10, 10, 1, 17))
+    0000   0x11 0x01 0x0a 0x0a 0x00                   .....
+    body (0)
+
+#### RECORD 11 Base (2010, 4, 1, 16, 11, 20) head[2], body[0] op[0xab]
+
+    op hex (2)
+    0000   0xab 0xf6                                  ..
+    decimal
+            171  246
+    datetime ((2010, 4, 1, 16, 11, 20))
+    0000   0x54 0x0b 0x10 0x01 0x0a                   T....
+    body (0)
+
+#### RECORD 12 CalBGForPH 2016-11-11T22:14:53 head[2], body[0] op[0x0a]
+###### DECODED
+```python
+{'amount': 0}
+```
+    op hex (2)
+    0000   0x0a 0x00                                  ..
+    decimal
+             10    0
+    datetime (2016-11-11T22:14:53)
+    0000   0xb5 0xce 0x56 0x0b 0x10                   ..V..
+    body (0)
+
+#### RECORD 13 Base (2016, 11, 11, 22, 25, 24) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x18                                  9.
+    decimal
+             57   24
+    datetime ((2016, 11, 11, 22, 25, 24))
+    0000   0x98 0xd9 0x36 0x6b 0x10                   ..6k.
+    body (0)
+
+#### RECORD 14 Base (2081, 0, 12, 0, 51, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2081, 0, 12, 0, 51, 17))
+    0000   0x11 0x33 0x00 0xac 0xd1                   .3...
+    body (0)
+
+#### RECORD 15 ChangeTime (2044, 0, 1, 22, 8, 16) head[2], body[0] op[0x17]
+
+    op hex (2)
+    0000   0x17 0x0b                                  ..
+    decimal
+             23   11
+    datetime ((2044, 0, 1, 22, 8, 16))
+    0000   0x10 0x08 0x16 0x01 0xac                   .....
+    body (0)
+
+#### RECORD 16 Base (2000, 0, 0, 7, 16, 11) head[2], body[0] op[0xd1]
+
+    op hex (2)
+    0000   0xd1 0x17                                  ..
+    decimal
+            209   23
+    datetime ((2000, 0, 0, 7, 16, 11))
+    0000   0x0b 0x10 0x07 0x00 0x00                   .....
+    body (0)
+
+#### RECORD 17 Base (2016, 10, 11, 12, 16, 43) head[2], body[0] op[0x04]
+
+    op hex (2)
+    0000   0x04 0xbc                                  ..
+    decimal
+              4  188
+    datetime ((2016, 10, 11, 12, 16, 43))
+    0000   0xab 0x90 0x6c 0xab 0x90                   ..l..
+    body (0)
+
+#### RECORD 18 Base (2000, 9, 4, 4, 43, 55) head[2], body[0] op[0x02]
+
+    op hex (2)
+    0000   0x02 0x10                                  ..
+    decimal
+              2   16
+    datetime ((2000, 9, 4, 4, 43, 55))
+    0000   0xb7 0x6b 0x44 0x04 0x00                   .kD..
+    body (0)
+
+#### RECORD 19 Base (2002, 8, 18, 4, 2, 60) head[2], body[0] op[0x00]
+
+    op hex (2)
+    0000   0x00 0x04                                  ..
+    decimal
+              0    4
+    datetime ((2002, 8, 18, 4, 2, 60))
+    0000   0xbc 0x02 0x64 0x32 0x02                   ..d2.
+    body (0)
+
+#### RECORD 20 Base (2050, 0, 24, 2, 0, 0) head[2], body[0] op[0x58]
+
+    op hex (2)
+    0000   0x58 0x32                                  X2
+    decimal
+             88   50
+    datetime ((2050, 0, 24, 2, 0, 0))
+    0000   0x00 0x00 0x02 0x58 0x32                   ...X2
+    body (0)
+
+`end ./ReadHistoryData-page-22.data: 21 records`

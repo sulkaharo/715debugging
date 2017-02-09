@@ -1,0 +1,76 @@
+## START ./ReadHistoryData-page-32.data
+#### STOPPING DOUBLE NULLS @ 44, found 3 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x01 0xe0 0x64 0x04 0x00 0x00 0x00 0x04    ..d.....
+    0008   0x39 0x16 0x9a 0x6f 0x07 0x74 0x10 0x76    9..o.t.v
+    0010   0x92 0x11 0x01 0x1e 0x1e 0x00 0x98 0x48    .......H
+    0018   0x48 0x14 0x10 0x33 0x32 0x90 0x55 0x08    H..32.U.
+##### DEBUG DECIMAL
+              1  224  100    4    0    0    0    4
+             57   22  154  111    7  116   16  118
+            146   17    1   30   30    0  152   72
+             72   20   16   51   50  144   85    8
+#### RECORD 0 Base (2016, 9, 19, 21, 5, 0) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x0f                                  9.
+    decimal
+             57   15
+    datetime ((2016, 9, 19, 21, 5, 0))
+    0000   0x80 0x45 0xd5 0x73 0x10                   .E.s.
+    body (0)
+
+#### RECORD 1 Base (2004, 0, 0, 0, 7, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2004, 0, 0, 0, 7, 17))
+    0000   0x11 0x07 0x00 0x00 0x04                   .....
+    body (0)
+
+#### RECORD 2 Base (2002, 9, 16, 19, 44, 16) head[2], body[0] op[0x8e]
+
+    op hex (2)
+    0000   0x8e 0x93                                  ..
+    decimal
+            142  147
+    datetime ((2002, 9, 16, 19, 44, 16))
+    0000   0x90 0x6c 0x93 0x90 0x02                   .l...
+    body (0)
+
+#### RECORD 3 Base (2000, 1, 0, 4, 56, 39) head[2], body[0] op[0x00]
+
+    op hex (2)
+    0000   0x00 0x4d                                  .M
+    decimal
+              0   77
+    datetime ((2000, 1, 0, 4, 56, 39))
+    0000   0x27 0x78 0x04 0x00 0x00                   'x...
+    body (0)
+
+#### RECORD 4 Base (2096, 2, 1, 27, 46, 2) head[2], body[0] op[0x04]
+
+    op hex (2)
+    0000   0x04 0x8e                                  ..
+    decimal
+              4  142
+    datetime ((2096, 2, 1, 27, 46, 2))
+    0000   0x02 0xae 0x3b 0x01 0xe0                   ..;..
+    body (0)
+
+#### RECORD 5 Base (2000, 0, 9, 0, 1, 0) head[2], body[0] op[0x29]
+
+    op hex (2)
+    0000   0x29 0x00                                  ).
+    decimal
+             41    0
+    datetime ((2000, 0, 9, 0, 1, 0))
+    0000   0x00 0x01 0xe0 0x29 0x00                   ...).
+    body (0)
+
+`end ./ReadHistoryData-page-32.data: 6 records`

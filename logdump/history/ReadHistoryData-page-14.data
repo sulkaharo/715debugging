@@ -1,0 +1,94 @@
+## START ./ReadHistoryData-page-14.data
+#### STOPPING DOUBLE NULLS @ 101, found 0 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x06 0x39 0x15 0xdb 0x05 0xc9 0x7e 0x10    .9....~.
+    0008   0x76 0x92 0x11 0x01 0x1e 0x1e 0x00 0xca    v.......
+    0010   0x2c 0x49 0x1e 0x10 0x01 0x0a 0x0a 0x00    ,I......
+    0018   0xf9 0x01 0x8d 0x1e 0x10 0x01 0x1e 0x1e    ........
+##### DEBUG DECIMAL
+              6   57   21  219    5  201  126   16
+            118  146   17    1   30   30    0  202
+             44   73   30   16    1   10   10    0
+            249    1  141   30   16    1   30   30
+#### RECORD 0 Base (2016, 12, 29, 16, 6, 1) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x19                                  9.
+    decimal
+             57   25
+    datetime ((2016, 12, 29, 16, 6, 1))
+    0000   0xc1 0x06 0x90 0x7d 0x10                   ...}.
+    body (0)
+
+#### RECORD 1 Base (2057, 0, 3, 25, 57, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2057, 0, 3, 25, 57, 17))
+    0000   0x11 0x39 0x19 0xe3 0x39                   .9..9
+    body (0)
+
+#### RECORD 2 Base (2001, 1, 17, 18, 54, 16) head[2], body[0] op[0x93]
+
+    op hex (2)
+    0000   0x93 0x7d                                  .}
+    decimal
+            147  125
+    datetime ((2001, 1, 17, 18, 54, 16))
+    0000   0x10 0x76 0x92 0x11 0x01                   .v...
+    body (0)
+
+#### RECORD 3 Base (2029, 3, 19, 25, 47, 0) head[2], body[0] op[0x05]
+
+    op hex (2)
+    0000   0x05 0x05                                  ..
+    decimal
+              5    5
+    datetime ((2029, 3, 19, 25, 47, 0))
+    0000   0x00 0xef 0x39 0x53 0x1d                   ..9S.
+    body (0)
+
+#### RECORD 4 Base (2023, 0, 26, 0, 30, 30) head[2], body[0] op[0x10]
+
+    op hex (2)
+    0000   0x10 0x01                                  ..
+    decimal
+             16    1
+    datetime ((2023, 0, 26, 0, 30, 30))
+    0000   0x1e 0x1e 0x00 0xda 0x17                   .....
+    body (0)
+
+#### RECORD 5 Ian54 (2042, 0, 1, 28, 57, 16) head[2], body[57] op[0x54]
+
+    op hex (2)
+    0000   0x54 0x1d                                  T.
+    decimal
+             84   29
+    datetime ((2042, 0, 1, 28, 57, 16))
+    0000   0x10 0x39 0x1c 0xe1 0x2a                   .9..*
+    body (57)
+    hex
+    0000   0xf5 0x7d 0x10 0x76 0x92 0x11 0x01 0x1e    .}.v....
+    0008   0x1e 0x00 0xc7 0x2b 0x55 0x1d 0x10 0x07    ...+U...
+    0010   0x00 0x00 0x05 0x16 0xdd 0x10 0x6c 0xdd    ......l.
+    0018   0x10 0x02 0x00 0x7b 0x71 0x8b 0x04 0x00    ...{q...
+    0020   0x00 0x05 0x16 0x02 0xaa 0x34 0x02 0x6c    .....4.l
+    0028   0x30 0x00 0x00 0x02 0x6c 0x30 0x00 0x00    0...l0..
+    0030   0x00 0x00 0x00 0x00 0x02 0x6c 0x64 0x06    .....ld.
+    0038   0x00                                       .
+    decimal
+            245  125   16  118  146   17    1   30
+             30    0  199   43   85   29   16    7
+              0    0    5   22  221   16  108  221
+             16    2    0  123  113  139    4    0
+              0    5   22    2  170   52    2  108
+             48    0    0    2  108   48    0    0
+              0    0    0    0    2  108  100    6
+              0
+
+`end ./ReadHistoryData-page-14.data: 6 records`

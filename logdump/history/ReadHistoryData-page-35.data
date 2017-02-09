@@ -1,0 +1,106 @@
+## START ./ReadHistoryData-page-35.data
+#### STOPPING DOUBLE NULLS @ 65, found 0 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x04 0xb2 0x02 0x96 0x37 0x02 0x1c 0x2d    ....7..-
+    0008   0x00 0x00 0x02 0x1c 0x2d 0x00 0x00 0x00    ....-...
+    0010   0x00 0x00 0x00 0x02 0x1c 0x64 0x07 0x00    .....d..
+    0018   0x00 0x00 0x07 0x39 0x1a 0xaa 0x56 0x67    ...9..Vg
+##### DEBUG DECIMAL
+              4  178    2  150   55    2   28   45
+              0    0    2   28   45    0    0    0
+              0    0    0    2   28  100    7    0
+              0    0    7   57   26  170   86  103
+#### RECORD 0 Base (2016, 8, 31, 20, 44, 34) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x0a                                  9.
+    decimal
+             57   10
+    datetime ((2016, 8, 31, 20, 44, 34))
+    0000   0xa2 0x2c 0xd4 0x7f 0x10                   .,...
+    body (0)
+
+#### RECORD 1 Base (2044, 0, 17, 0, 30, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2044, 0, 17, 0, 30, 17))
+    0000   0x11 0x1e 0x00 0xb1 0x2c                   ....,
+    body (0)
+
+#### RECORD 2 SelectBasalProfile (2050, 0, 27, 0, 31, 16) head[2], body[0] op[0x14]
+
+    op hex (2)
+    0000   0x14 0x1f                                  ..
+    decimal
+             20   31
+    datetime ((2050, 0, 27, 0, 31, 16))
+    0000   0x10 0x1f 0x00 0xbb 0x32                   ....2
+    body (0)
+
+#### RECORD 3 SelectBasalProfile (2051, 0, 10, 0, 30, 16) head[2], body[0] op[0x14]
+
+    op hex (2)
+    0000   0x14 0x1f                                  ..
+    decimal
+             20   31
+    datetime ((2051, 0, 10, 0, 30, 16))
+    0000   0x10 0x1e 0x00 0x8a 0x33                   ....3
+    body (0)
+
+#### RECORD 4 SelectBasalProfile (2032, 0, 26, 0, 31, 16) head[2], body[0] op[0x14]
+
+    op hex (2)
+    0000   0x14 0x1f                                  ..
+    decimal
+             20   31
+    datetime ((2032, 0, 26, 0, 31, 16))
+    0000   0x10 0x1f 0x00 0x9a 0x20                   .... 
+    body (0)
+
+#### RECORD 5 Base (2000, 0, 20, 20, 1, 16) head[2], body[0] op[0x15]
+
+    op hex (2)
+    0000   0x15 0x1f                                  ..
+    decimal
+             21   31
+    datetime ((2000, 0, 20, 20, 1, 16))
+    0000   0x10 0x01 0x14 0x14 0x00                   .....
+    body (0)
+
+#### RECORD 6 Base (2000, 4, 7, 16, 31, 21) head[2], body[0] op[0xa1]
+
+    op hex (2)
+    0000   0xa1 0x20                                  . 
+    decimal
+            161   32
+    datetime ((2000, 4, 7, 16, 31, 21))
+    0000   0x55 0x1f 0x10 0x07 0x00                   U....
+    body (0)
+
+#### RECORD 7 Base (2031, 10, 12, 16, 31, 50) head[2], body[0] op[0x00]
+
+    op hex (2)
+    0000   0x00 0x04                                  ..
+    decimal
+              0    4
+    datetime ((2031, 10, 12, 16, 31, 50))
+    0000   0xb2 0x9f 0x10 0x6c 0x9f                   ...l.
+    body (0)
+
+#### RECORD 8 Base (2006, 1, 9, 14, 24, 0) head[2], body[0] op[0x10]
+
+    op hex (2)
+    0000   0x10 0x02                                  ..
+    decimal
+             16    2
+    datetime ((2006, 1, 9, 14, 24, 0))
+    0000   0x00 0x58 0x2e 0xa9 0x06                   .X...
+    body (0)
+
+`end ./ReadHistoryData-page-35.data: 9 records`

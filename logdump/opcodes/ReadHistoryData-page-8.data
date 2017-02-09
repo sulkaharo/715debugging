@@ -1,0 +1,79 @@
+## START ./ReadHistoryData-page-8.data
+#### RECORD 0 PumpResume 2017-01-29T10:08:27 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-01-29T10:08:27)
+    0000   0x1b 0x48 0x0a 0x1d 0x11                   .H...
+    body (0)
+    HOUR BITS: [0, 1, 0]
+
+#### RECORD 1 Bolus 2017-01-29T10:08:33 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x14 0x14 0x00                        ....
+    decimal
+              1   20   20    0
+    datetime (2017-01-29T10:08:33)
+    0000   0x21 0x48 0x4a 0x1d 0x11                   !HJ..
+    body (0)
+    HOUR BITS: [0, 1, 0]
+
+#### RECORD 2 Bolus 2017-01-29T20:12:51 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x28 0x28 0x00                        .((.
+    decimal
+              1   40   40    0
+    datetime (2017-01-29T20:12:51)
+    0000   0x33 0x4c 0x54 0x1d 0x11                   3LT..
+    body (0)
+    HOUR BITS: [0, 1, 0]
+
+#### RECORD 3 ResultTotals MIDNIGHT!?: (2017, 2, 29, 12, 17, 29) head[5], body[41] 0x07
+    op hex (5)
+    0000   0x07 0x00 0x00 0x03 0x6c                   ....l
+    decimal
+              7    0    0    3  108
+    datetime (MIDNIGHT!?: (2017, 2, 29, 12, 17, 29))
+    0000   0x1d 0x91 0x6c 0x1d 0x91                   ..l..
+    body (41)
+    hex
+    0000   0x02 0x00 0x2f 0x2f 0x2f 0x01 0x00 0x00    ..///...
+    0008   0x03 0x6c 0x02 0x7c 0x49 0x00 0xf0 0x1b    .l.|I...
+    0010   0x00 0x00 0x00 0xf0 0x1b 0x00 0x00 0x00    ........
+    0018   0x00 0x00 0x00 0x00 0xf0 0x64 0x02 0x00    .....d..
+    0020   0x00 0x00 0x02 0x39 0x19 0x26 0x48 0x49    ...9.&HI
+    0028   0x7e                                       ~
+    decimal
+              2    0   47   47   47    1    0    0
+              3  108    2  124   73    0  240   27
+              0    0    0  240   27    0    0    0
+              0    0    0    0  240  100    2    0
+              0    0    2   57   25   38   72   73
+            126
+    HOUR BITS: [1, 0, 0] YEAR BITS: [1]
+
+#### RECORD 4 Record 2010-08-10T01:17:18 head[2], body[0] 0x11
+    op hex (2)
+    0000   0x11 0x76                                  .v
+    decimal
+             17  118
+    datetime (2010-08-10T01:17:18)
+    0000   0x92 0x11 0x01 0x0a 0x0a                   .....
+    body (0)
+    
+
+#### MISSING DATETIME @ 90, reading more to debug 0x00
+    0000   0x00 0x2c 0x48 0x49 0x1e 0x11 0x01         .,HI...
+              0   44   72   73   30   17    1
+##### DEBUG HEX
+    0000   0x1e 0x1e 0x00 0x27 0x60 0x49 0x1e 0x11    ...'`I..
+    0008   0x01 0x0a 0x0a 0x00 0x01 0x5f 0x4d 0x1e    ....._M.
+    0010   0x11 0x01 0x1e 0x1e 0x02 0x27 0x7a 0x73    .....'zs
+    0018   0x1e 0x11 0x39 0x18 0x32 0x53 0x16 0x7e    ..9.2S.~
+##### DEBUG DECIMAL
+             30   30    0   39   96   73   30   17
+              1   10   10    0    1   95   77   30
+             17    1   30   30    2   39  122  115
+             30   17   57   24   50   83   22  126
+`end ./ReadHistoryData-page-8.data: 5 records`

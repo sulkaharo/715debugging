@@ -1,0 +1,26 @@
+## START ./ReadHistoryData-page-35.data
+#### RECORD 0 Record 2016-08-31T20:44:34 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x0a                                  9.
+    decimal
+             57   10
+    datetime (2016-08-31T20:44:34)
+    0000   0xa2 0x2c 0xd4 0x7f 0x10                   .,...
+    body (0)
+    HOUR BITS: [0, 0, 1] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x1e 0x00 0xb1 0x2c         v.....,
+            118  146   17   30    0  177   44
+##### DEBUG HEX
+    0000   0x14 0x1f 0x10 0x1f 0x00 0xbb 0x32 0x14    ......2.
+    0008   0x1f 0x10 0x1e 0x00 0x8a 0x33 0x14 0x1f    .....3..
+    0010   0x10 0x1f 0x00 0x9a 0x20 0x15 0x1f 0x10    .... ...
+    0018   0x01 0x14 0x14 0x00 0xa1 0x20 0x55 0x1f    ..... U.
+##### DEBUG DECIMAL
+             20   31   16   31    0  187   50   20
+             31   16   30    0  138   51   20   31
+             16   31    0  154   32   21   31   16
+              1   20   20    0  161   32   85   31
+XXX:???:XXX 2000-06-30T17:18:54
+`end ./ReadHistoryData-page-35.data: 1 records`

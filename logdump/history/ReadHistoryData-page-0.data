@@ -1,0 +1,40 @@
+## START ./ReadHistoryData-page-0.data
+#### STOPPING DOUBLE NULLS @ 23, found 999 nulls
+reading more to debug 0x00
+    0000   0x00 0x00                                  ..
+              0    0
+##### DEBUG HEX
+    0000   0x32 0xcf                                  2.
+##### DEBUG DECIMAL
+             50  207
+#### RECORD 0 Base (2017, 2, 9, 11, 47, 41) head[2], body[0] op[0x39]
+
+    op hex (2)
+    0000   0x39 0x23                                  9#
+    decimal
+             57   35
+    datetime ((2017, 2, 9, 11, 47, 41))
+    0000   0x29 0xaf 0xeb 0x69 0x11                   )..i.
+    body (0)
+
+#### RECORD 1 Base (2000, 0, 15, 15, 1, 17) head[2], body[0] op[0x76]
+
+    op hex (2)
+    0000   0x76 0x92                                  v.
+    decimal
+            118  146
+    datetime ((2000, 0, 15, 15, 1, 17))
+    0000   0x11 0x01 0x0f 0x0f 0x00                   .....
+    body (0)
+
+#### RECORD 2 Base (2000, 4, 0, 17, 9, 11) head[2], body[0] op[0x05]
+
+    op hex (2)
+    0000   0x05 0xb1                                  ..
+    decimal
+              5  177
+    datetime ((2000, 4, 0, 17, 9, 11))
+    0000   0x4b 0x09 0x11 0x00 0x00                   K....
+    body (0)
+
+`end ./ReadHistoryData-page-0.data: 3 records`

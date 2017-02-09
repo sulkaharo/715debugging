@@ -1,0 +1,59 @@
+## START ./ReadHistoryData-page-28.data
+#### RECORD 0 ResultTotals 2016-08-09T12:16:41 head[5], body[41] 0x07
+    op hex (5)
+    0000   0x07 0x00 0x00 0x04 0x2e                   .....
+    decimal
+              7    0    0    4   46
+    datetime (2016-08-09T12:16:41)
+    0000   0xa9 0x10 0x6c 0xa9 0x10                   ..l..
+    body (41)
+    hex
+    0000   0x02 0x00 0x57 0x3a 0x70 0x03 0x00 0x00    ..W:p...
+    0008   0x04 0x2e 0x02 0xda 0x44 0x01 0x54 0x20    ....D.T 
+    0010   0x00 0x00 0x01 0x54 0x20 0x00 0x00 0x00    ...T ...
+    0018   0x00 0x00 0x00 0x01 0x54 0x64 0x04 0x00    ....Td..
+    0020   0x00 0x00 0x04 0x39 0x18 0x9f 0xa9 0x87    ...9....
+    0028   0x6a                                       j
+    decimal
+              2    0   87   58  112    3    0    0
+              4   46    2  218   68    1   84   32
+              0    0    1   84   32    0    0    0
+              0    0    0    1   84  100    4    0
+              0    0    4   57   24  159  169  135
+            106
+    DAY BITS: [1, 0, 1]
+
+#### RECORD 1 Record 2005-08-05T01:17:18 head[2], body[0] 0x10
+    op hex (2)
+    0000   0x10 0x76                                  .v
+    decimal
+             16  118
+    datetime (2005-08-05T01:17:18)
+    0000   0x92 0x11 0x01 0x05 0x05                   .....
+    body (0)
+    
+
+#### RECORD 2 Record 2001-09-16T10:07:41 head[2], body[0] 0x00
+    op hex (2)
+    0000   0x00 0xa7                                  ..
+    decimal
+              0  167
+    datetime (2001-09-16T10:07:41)
+    0000   0xa9 0x47 0x0a 0x10 0x01                   .G...
+    body (0)
+    HOUR BITS: [0, 1, 0]
+
+#### MISSING DATETIME @ 72, reading more to debug 0x1e
+    0000   0x1e 0x1e 0x00 0xa4 0xb9 0x48 0x0a         .....H.
+             30   30    0  164  185   72   10
+##### DEBUG HEX
+    0000   0x10 0x01 0x28 0x28 0x00 0xa1 0xa7 0x4c    ..((...L
+    0008   0x0a 0x10 0x39 0x20 0xb7 0x99 0xb0 0x6a    ..9 ...j
+    0010   0x10 0x76 0x92 0x11 0x01 0x0f 0x0f 0x00    .v......
+    0018   0x89 0x9a 0x50 0x0a 0x10 0x1e 0x00 0xbb    ..P.....
+##### DEBUG DECIMAL
+             16    1   40   40    0  161  167   76
+             10   16   57   32  183  153  176  106
+             16  118  146   17    1   15   15    0
+            137  154   80   10   16   30    0  187
+`end ./ReadHistoryData-page-28.data: 3 records`

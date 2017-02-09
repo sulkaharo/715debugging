@@ -1,0 +1,25 @@
+## START ./ReadHistoryData-page-17.data
+#### RECORD 0 Record 2016-12-08T23:34:04 head[2], body[0] 0x09
+    op hex (2)
+    0000   0x09 0x04                                  ..
+    decimal
+              9    4
+    datetime (2016-12-08T23:34:04)
+    0000   0xc4 0x22 0x17 0x08 0x10                   ."...
+    body (0)
+    HOUR BITS: [0, 0, 1]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x00
+    0000   0x00 0x1a 0x00 0x0a 0x18 0x00 0x10         .......
+              0   26    0   10   24    0   16
+##### DEBUG HEX
+    0000   0x22 0x00 0x20 0x1a 0x00 0x00 0x00 0x00    ". .....
+    0008   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0010   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0018   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+##### DEBUG DECIMAL
+             34    0   32   26    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+`end ./ReadHistoryData-page-17.data: 1 records`

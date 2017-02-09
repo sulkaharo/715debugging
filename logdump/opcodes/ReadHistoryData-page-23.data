@@ -1,0 +1,76 @@
+## START ./ReadHistoryData-page-23.data
+#### RECORD 0 PumpSuspend 2016-11-08T17:27:09 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2016-11-08T17:27:09)
+    0000   0x89 0xdb 0x11 0x08 0x10                   .....
+    body (0)
+    HOUR BITS: [1, 1, 0]
+
+#### RECORD 1 PumpResume 2016-11-08T17:37:24 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2016-11-08T17:37:24)
+    0000   0x98 0xe5 0x11 0x08 0x10                   .....
+    body (0)
+    HOUR BITS: [1, 1, 1]
+
+#### RECORD 2 Bolus 2016-11-08T17:37:35 head[4], body[0] 0x01
+    op hex (4)
+    0000   0x01 0x14 0x14 0x00                        ....
+    decimal
+              1   20   20    0
+    datetime (2016-11-08T17:37:35)
+    0000   0xa3 0xe5 0x51 0x08 0x10                   ..Q..
+    body (0)
+    HOUR BITS: [1, 1, 1]
+
+#### RECORD 3 PumpSuspend 2016-11-08T18:15:14 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2016-11-08T18:15:14)
+    0000   0x8e 0xcf 0x12 0x08 0x10                   .....
+    body (0)
+    HOUR BITS: [1, 1, 0]
+
+#### RECORD 4 PumpResume 2016-11-08T18:45:05 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2016-11-08T18:45:05)
+    0000   0x85 0xed 0x12 0x08 0x10                   .....
+    body (0)
+    HOUR BITS: [1, 1, 1]
+
+#### RECORD 5 Record 2016-11-08T18:57:46 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x06                                  9.
+    decimal
+             57    6
+    datetime (2016-11-08T18:57:46)
+    0000   0xae 0xf9 0x52 0x68 0x10                   ..Rh.
+    body (0)
+    HOUR BITS: [1, 1, 1] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 51, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x1e 0x00 0xb7 0xf9         v......
+            118  146   17   30    0  183  249
+##### DEBUG HEX
+    0000   0x12 0x08 0x10 0x1f 0x00 0x87 0xde 0x14    ........
+    0008   0x08 0x10 0x01 0x28 0x28 0x00 0xb7 0xef    ...((...
+    0010   0x54 0x08 0x10 0x39 0x11 0x82 0xe4 0x17    T..9....
+    0018   0x68 0x10 0x76 0x92 0x11 0x07 0x00 0x00    h.v.....
+##### DEBUG DECIMAL
+             18    8   16   31    0  135  222   20
+              8   16    1   40   40    0  183  239
+             84    8   16   57   17  130  228   23
+            104   16  118  146   17    7    0    0
+XXX:???:XXX 2000-06-30T17:18:54
+`end ./ReadHistoryData-page-23.data: 6 records`

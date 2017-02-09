@@ -1,0 +1,25 @@
+## START ./ReadHistoryData-page-29.data
+#### RECORD 0 Record 2016-10-04T08:01:10 head[2], body[0] 0x09
+    op hex (2)
+    0000   0x09 0x04                                  ..
+    decimal
+              9    4
+    datetime (2016-10-04T08:01:10)
+    0000   0x8a 0x81 0x08 0x04 0x10                   .....
+    body (0)
+    HOUR BITS: [1, 0, 0]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x00
+    0000   0x00 0x1e 0x00 0x0a 0x1c 0x00 0x10         .......
+              0   30    0   10   28    0   16
+##### DEBUG HEX
+    0000   0x22 0x00 0x20 0x1c 0x00 0x00 0x00 0x00    ". .....
+    0008   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0010   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+    0018   0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00    ........
+##### DEBUG DECIMAL
+             34    0   32   28    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+              0    0    0    0    0    0    0    0
+`end ./ReadHistoryData-page-29.data: 1 records`

@@ -1,0 +1,26 @@
+## START ./ReadHistoryData-page-14.data
+#### RECORD 0 Record 2016-12-29T16:06:01 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x19                                  9.
+    decimal
+             57   25
+    datetime (2016-12-29T16:06:01)
+    0000   0xc1 0x06 0x90 0x7d 0x10                   ...}.
+    body (0)
+    DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x39 0x19 0xe3 0x39         v..9..9
+            118  146   17   57   25  227   57
+##### DEBUG HEX
+    0000   0x93 0x7d 0x10 0x76 0x92 0x11 0x01 0x05    .}.v....
+    0008   0x05 0x00 0xef 0x39 0x53 0x1d 0x10 0x01    ...9S...
+    0010   0x1e 0x1e 0x00 0xda 0x17 0x54 0x1d 0x10    .....T..
+    0018   0x39 0x1c 0xe1 0x2a 0xf5 0x7d 0x10 0x76    9..*.}.v
+##### DEBUG DECIMAL
+            147  125   16  118  146   17    1    5
+              5    0  239   57   83   29   16    1
+             30   30    0  218   23   84   29   16
+             57   28  225   42  245  125   16  118
+XXX:???:XXX 2025-06-25T17:18:54
+`end ./ReadHistoryData-page-14.data: 1 records`

@@ -1,0 +1,388 @@
+## START ./ReadHistoryData-page-5.data
+#### RECORD 0 PumpResume 2017-02-03T16:32:48 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:32:48)
+    0000   0x30 0xa0 0x10 0x43 0x11                   0..C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 1 PumpSuspend 2017-02-03T16:32:49 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:32:49)
+    0000   0x31 0xa0 0x10 0x43 0x11                   1..C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 2 PumpResume 2017-02-03T16:32:53 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:32:53)
+    0000   0x35 0xa0 0x10 0x43 0x11                   5..C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 3 PumpSuspend 2017-02-03T16:32:54 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:32:54)
+    0000   0x36 0xa0 0x10 0x43 0x11                   6..C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 4 PumpResume 2017-02-03T16:32:57 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:32:57)
+    0000   0x39 0xa0 0x10 0x43 0x11                   9..C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 5 PumpSuspend 2017-02-03T16:32:59 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:32:59)
+    0000   0x3b 0xa0 0x10 0x43 0x11                   ;..C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 6 PumpResume 2017-02-03T16:33:02 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:33:02)
+    0000   0x02 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 7 PumpSuspend 2017-02-03T16:33:04 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:33:04)
+    0000   0x04 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 8 PumpResume 2017-02-03T16:33:07 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:33:07)
+    0000   0x07 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 9 PumpSuspend 2017-02-03T16:33:09 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:33:09)
+    0000   0x09 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 10 PumpResume 2017-02-03T16:33:12 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:33:12)
+    0000   0x0c 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 11 PumpSuspend 2017-02-03T16:33:13 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:33:13)
+    0000   0x0d 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 12 PumpResume 2017-02-03T16:33:17 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:33:17)
+    0000   0x11 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 13 PumpSuspend 2017-02-03T16:33:18 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:33:18)
+    0000   0x12 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 14 PumpResume 2017-02-03T16:33:21 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:33:21)
+    0000   0x15 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 15 PumpSuspend 2017-02-03T16:33:23 head[2], body[0] 0x1e
+    op hex (2)
+    0000   0x1e 0x00                                  ..
+    decimal
+             30    0
+    datetime (2017-02-03T16:33:23)
+    0000   0x17 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 16 PumpResume 2017-02-03T16:33:26 head[2], body[0] 0x1f
+    op hex (2)
+    0000   0x1f 0x00                                  ..
+    decimal
+             31    0
+    datetime (2017-02-03T16:33:26)
+    0000   0x1a 0xa1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 17 TempBasal 2017-02-03T16:44:02 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x16                                  3.
+    decimal
+             51   22
+    datetime (2017-02-03T16:44:02)
+    0000   0x02 0xac 0x10 0x43 0x11                   ...C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 18 TempBasal[eof] 2017-02-03T16:44:02 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T16:44:02)
+    0000   0x02 0xac 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 19 TempBasal 2017-02-03T16:49:10 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x00                                  3.
+    decimal
+             51    0
+    datetime (2017-02-03T16:49:10)
+    0000   0x0a 0xb1 0x10 0x43 0x11                   ...C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 20 TempBasal[eof] 2017-02-03T16:49:10 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T16:49:10)
+    0000   0x0a 0xb1 0x10 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 21 TempBasal 2017-02-03T17:00:51 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x00                                  3.
+    decimal
+             51    0
+    datetime (2017-02-03T17:00:51)
+    0000   0x33 0x80 0x11 0x43 0x11                   3..C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 22 TempBasal[eof] 2017-02-03T17:00:51 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T17:00:51)
+    0000   0x33 0x80 0x11 0x43 0x11                   3..C.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 23 TempBasal 2017-02-03T17:19:53 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x00                                  3.
+    decimal
+             51    0
+    datetime (2017-02-03T17:19:53)
+    0000   0x35 0x93 0x11 0x43 0x11                   5..C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 24 TempBasal[eof] 2017-02-03T17:19:53 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T17:19:53)
+    0000   0x35 0x93 0x11 0x43 0x11                   5..C.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 25 TempBasal 2017-02-03T17:37:00 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x00                                  3.
+    decimal
+             51    0
+    datetime (2017-02-03T17:37:00)
+    0000   0x00 0xa5 0x11 0x43 0x11                   ...C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 26 TempBasal[eof] 2017-02-03T17:37:00 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T17:37:00)
+    0000   0x00 0xa5 0x11 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 27 TempBasal 2017-02-03T17:42:13 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x16                                  3.
+    decimal
+             51   22
+    datetime (2017-02-03T17:42:13)
+    0000   0x0d 0xaa 0x11 0x43 0x11                   ...C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 28 TempBasal[eof] 2017-02-03T17:42:13 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T17:42:13)
+    0000   0x0d 0xaa 0x11 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 29 TempBasal 2017-02-03T17:51:02 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x00                                  3.
+    decimal
+             51    0
+    datetime (2017-02-03T17:51:02)
+    0000   0x02 0xb3 0x11 0x43 0x11                   ...C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 30 TempBasal[eof] 2017-02-03T17:51:02 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T17:51:02)
+    0000   0x02 0xb3 0x11 0x43 0x11                   ...C.
+    body (0)
+    HOUR BITS: [1, 0, 1] DAY BITS: [0, 1, 0]
+
+#### RECORD 31 TempBasal 2017-02-03T18:16:54 head[2], body[1] 0x33
+    op hex (2)
+    0000   0x33 0x00                                  3.
+    decimal
+             51    0
+    datetime (2017-02-03T18:16:54)
+    0000   0x36 0x90 0x12 0x43 0x11                   6..C.
+    body (1)
+    hex
+    0000   0x00                                       .
+    decimal
+              0
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 32 TempBasal[eof] 2017-02-03T18:16:54 head[2], body[0] 0x16
+    op hex (2)
+    0000   0x16 0x01                                  ..
+    decimal
+             22    1
+    datetime (2017-02-03T18:16:54)
+    0000   0x36 0x90 0x12 0x43 0x11                   6..C.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 0]
+
+#### RECORD 33 Record 2017-02-03T18:30:30 head[2], body[0] 0x39
+    op hex (2)
+    0000   0x39 0x0d                                  9.
+    decimal
+             57   13
+    datetime (2017-02-03T18:30:30)
+    0000   0x1e 0x9e 0x72 0x63 0x11                   ..rc.
+    body (0)
+    HOUR BITS: [1, 0, 0] DAY BITS: [0, 1, 1]
+
+#### MISSING DATETIME @ 253, reading more to debug 0x76
+    0000   0x76 0x92 0x11 0x39 0x0d 0x07 0x9f         v..9...
+            118  146   17   57   13    7  159
+##### DEBUG HEX
+    0000   0xb2 0x63 0x11 0x76 0x92 0x11 0x39 0x15    .c.v..9.
+    0008   0x1d 0x81 0x73 0x63 0x11 0x76 0x92 0x11    ..sc.v..
+    0010   0x5b 0x5f 0x11 0xb7 0x13 0x03 0x11 0x3c    [_.....<
+    0018   0x90 0x0a 0x28 0x41 0x00 0x3c 0x00 0x00    ..(A.<..
+##### DEBUG DECIMAL
+            178   99   17  118  146   17   57   21
+             29  129  115   99   17  118  146   17
+             91   95   17  183   19    3   17   60
+            144   10   40   65    0   60    0    0
+XXX:???:XXX 2013-06-25T17:18:54
+`end ./ReadHistoryData-page-5.data: 34 records`

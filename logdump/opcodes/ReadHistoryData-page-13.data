@@ -1,0 +1,25 @@
+## START ./ReadHistoryData-page-13.data
+#### RECORD 0 Record 2067-08-26T00:02:17 head[2], body[0] 0x6c
+    op hex (2)
+    0000   0x6c 0x04                                  l.
+    decimal
+            108    4
+    datetime (2067-08-26T00:02:17)
+    0000   0x91 0x02 0x00 0x5a 0x43                   ...ZC
+    body (0)
+    DAY BITS: [0, 1, 0]
+
+#### MISSING DATETIME @ 14, reading more to debug 0x73
+    0000   0x73 0x03 0x00 0x00 0x04 0x7c 0x02         s....|.
+            115    3    0    0    4  124    2
+##### DEBUG HEX
+    0000   0x74 0x37 0x02 0x08 0x2d 0x00 0x00 0x02    t7..-...
+    0008   0x08 0x2d 0x00 0x00 0x00 0x00 0x00 0x00    .-......
+    0010   0x02 0x08 0x64 0x05 0x00 0x00 0x00 0x05    ..d.....
+    0018   0x39 0x0c 0x33 0x42 0x28 0x65 0x11 0x76    9.3B(e.v
+##### DEBUG DECIMAL
+            116   55    2    8   45    0    0    2
+              8   45    0    0    0    0    0    0
+              2    8  100    5    0    0    0    5
+             57   12   51   66   40  101   17  118
+`end ./ReadHistoryData-page-13.data: 1 records`
